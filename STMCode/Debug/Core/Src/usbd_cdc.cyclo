@@ -1,0 +1,15 @@
+../Core/Src/usbd_cdc.c:471:17:USBD_CDC_Init	4
+../Core/Src/usbd_cdc.c:550:17:USBD_CDC_DeInit	2
+../Core/Src/usbd_cdc.c:584:17:USBD_CDC_Setup	12
+../Core/Src/usbd_cdc.c:678:17:USBD_CDC_DataIn	4
+../Core/Src/usbd_cdc.c:712:17:USBD_CDC_DataOut	2
+../Core/Src/usbd_cdc.c:739:17:USBD_CDC_EP0_RxReady	3
+../Core/Src/usbd_cdc.c:761:18:USBD_CDC_GetFSCfgDesc	1
+../Core/Src/usbd_cdc.c:774:18:USBD_CDC_GetHSCfgDesc	1
+../Core/Src/usbd_cdc.c:787:18:USBD_CDC_GetOtherSpeedCfgDesc	1
+../Core/Src/usbd_cdc.c:799:11:USBD_CDC_GetDeviceQualifierDescriptor	1
+../Core/Src/usbd_cdc.c:811:10:USBD_CDC_RegisterInterface	2
+../Core/Src/usbd_cdc.c:831:10:USBD_CDC_SetTxBuffer	1
+../Core/Src/usbd_cdc.c:850:10:USBD_CDC_SetRxBuffer	1
+../Core/Src/usbd_cdc.c:866:10:USBD_CDC_TransmitPacket	3
+../Core/Src/usbd_cdc.c:904:10:USBD_CDC_ReceivePacket	3

@@ -1,0 +1,10 @@
+../Core/Src/io_i2c.c:5:6:IIC_Init	32	static
+../Core/Src/io_i2c.c:19:6:SDA_IN	32	static
+../Core/Src/io_i2c.c:33:6:SDA_OUT	32	static
+../Core/Src/io_i2c.c:44:6:IIC_Start	8	static
+../Core/Src/io_i2c.c:55:6:IIC_Stop	8	static
+../Core/Src/io_i2c.c:68:9:IIC_Wait_Ack	16	static
+../Core/Src/io_i2c.c:89:6:IIC_Ack	8	static
+../Core/Src/io_i2c.c:100:6:IIC_NAck	8	static
+../Core/Src/io_i2c.c:114:6:IIC_Send_Byte	24	static
+../Core/Src/io_i2c.c:135:9:IIC_Read_Byte	32	static

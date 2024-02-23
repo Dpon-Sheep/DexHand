@@ -1,0 +1,6 @@
+../Core/Src/usbd_cdc_if.c:158:15:CDC_Init_FS	1
+../Core/Src/usbd_cdc_if.c:172:15:CDC_DeInit_FS	1
+../Core/Src/usbd_cdc_if.c:186:15:CDC_Control_FS	2
+../Core/Src/usbd_cdc_if.c:267:15:CDC_Receive_FS	30
+../Core/Src/usbd_cdc_if.c:359:9:CDC_Transmit_FS	2
+../Core/Src/usbd_cdc_if.c:375:6:usb_printf	1

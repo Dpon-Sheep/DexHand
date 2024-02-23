@@ -1,0 +1,13 @@
+../Core/Src/MyMotor.c:25:7:get_pos_goal_speed	24	static
+../Core/Src/MyMotor.c:35:9:set_Motor_Speed	24	static
+../Core/Src/MyMotor.c:49:9:motor_Goto	16	static
+../Core/Src/MyMotor.c:62:6:clear_can_t	16	static
+../Core/Src/MyMotor.c:67:9:get_motor_info	16	static
+../Core/Src/MyMotor.c:73:9:get_motor_angle	16	static
+../Core/Src/MyMotor.c:79:9:stop_Motor	16	static
+../Core/Src/MyMotor.c:85:9:start_Motor	16	static
+../Core/Src/MyMotor.c:91:9:clear_error	16	static
+../Core/Src/MyMotor.c:97:9:set_Motor_Zero	16	static
+../Core/Src/MyMotor.c:103:9:CAN_Send_Msg	24	static
+../Core/Src/MyMotor.c:122:6:CANFilter_init	56	static
+../Core/Src/MyMotor.c:151:6:HAL_CAN_RxFifo0MsgPendingCallback	40	static
